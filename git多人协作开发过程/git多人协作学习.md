@@ -39,6 +39,8 @@
 
     B提交代码
     git add git.html
+
+    git add .  将全部上传到暂存区
     git commit -m B第一次提交
     (B没有权限向A创建的仓库提交代码 需要A邀请程序员B称为项目的开发者)
 
