@@ -28,7 +28,7 @@
     总结:
         git push 远程仓库地址 分支名称
             简化:
-                01.git remote add 别名(可以自定义) 远程仓库地址  (git remote add origin master)
+                01.git remote add 别名(可以自定义) 远程仓库地址  (git remote add origin)
                 02.git push 别名 分支名称(git push origin master)
             再简化:
                 01.git push -u 别名 分支名称(git push -u origin master) -u表示下次可以直接使用git push
